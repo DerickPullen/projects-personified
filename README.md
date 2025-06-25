@@ -1,4 +1,5 @@
 # Data Analyst
+headshot.jng.jpg
 
 ### Education
 Associate of Arts
