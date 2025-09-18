@@ -5,13 +5,7 @@ Associate of Arts
 
 ### Work Experience
 
-## Case Studies
-
-### Bellabeat Smart Device Analysis
-## Case Studies
-
-### Bellabeat Smart Device Analysis
-## Case Studies
+#### Case Studies
 
 ### Bellabeat Smart Device Analysis
 - Repo: [GitHub Repository](https://github.com/DerickPullen/bellabeat_case_study)
