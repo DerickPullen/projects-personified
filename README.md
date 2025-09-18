@@ -4,9 +4,19 @@
 Associate of Arts
 
 ### Work Experience
-SQL Project "Coming Soon"
 
-Capstone Project "Coming Soon"
+## Case Studies
+
+### Bellabeat Smart Device Analysis
+Brief: Exploratory analysis of smart-device usage to recommend marketing strategies. R, dplyr, tidyverse, ggplot2
+- Repo: https://github.com/DerickPullen/bellabeat_case_study
+- README: ([add the report or notebook link here](https://github.com/DerickPullen/bellabeat_case_study/blob/main/README.md))
+
+### Cyclistic Bike-Share Analysis
+Brief: 12-month ride behavior comparison for members vs. casuals to drive conversions. BigQuery, SQL, data viz
+- Repo: https://github.com/DerickPullen/cyclistic_overview
+- README: ([add the report or notebook link here](https://github.com/DerickPullen/cyclistic_overview/blob/main/README.md))
+
 
 Excel Project "Coming Soon"
 
